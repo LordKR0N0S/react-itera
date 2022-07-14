@@ -1,0 +1,21 @@
+.container {
+  background-color: bisque;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  color: green;
+}
+.text {
+  color: brown;
+}
+.contact {
+  text-decoration: none;
+  color: red;
+}
+.contact:hover {
+  color: blueviolet;
+  text-decoration: underline;
+}

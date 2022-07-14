@@ -1,0 +1,12 @@
+[
+    {
+        "firstName": "Max",
+        "shortBiography": "I was born in Lviv. I want to become front-end developer",
+        "phoneNumber": "0630167837"
+    },
+    {
+        "firstName": "Steven",
+        "shortBiography": "I was born in Ternopil. I want to become front-end developer",
+        "phoneNumber": "0969409901"
+    }
+]
